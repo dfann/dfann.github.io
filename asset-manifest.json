@@ -1,20 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.28822f44.chunk.css",
-    "main.js": "/static/js/main.99856378.chunk.js",
-    "main.js.map": "/static/js/main.99856378.chunk.js.map",
+    "main.js": "/static/js/main.972884f0.chunk.js",
+    "main.js.map": "/static/js/main.972884f0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ed394daa.js",
     "runtime-main.js.map": "/static/js/runtime-main.ed394daa.js.map",
-    "static/js/2.c400f302.chunk.js": "/static/js/2.c400f302.chunk.js",
-    "static/js/2.c400f302.chunk.js.map": "/static/js/2.c400f302.chunk.js.map",
+    "static/js/2.0be573b9.chunk.js": "/static/js/2.0be573b9.chunk.js",
+    "static/js/2.0be573b9.chunk.js.map": "/static/js/2.0be573b9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.adb2c1219473b1295a8218067dd276e8.js": "/precache-manifest.adb2c1219473b1295a8218067dd276e8.js",
+    "precache-manifest.0f13f61d5f5a70a833481c0aeacc0d66.js": "/precache-manifest.0f13f61d5f5a70a833481c0aeacc0d66.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.28822f44.chunk.css.map": "/static/css/main.28822f44.chunk.css.map",
-    "static/js/2.c400f302.chunk.js.LICENSE.txt": "/static/js/2.c400f302.chunk.js.LICENSE.txt",
+    "static/js/2.0be573b9.chunk.js.LICENSE.txt": "/static/js/2.0be573b9.chunk.js.LICENSE.txt",
     "static/media/David-Fann.jpeg": "/static/media/David-Fann.da7d0e29.jpeg",
     "static/media/App.css": "/static/media/macbook-three-quater.ffc6373e.jpg",
+    "static/media/dfann-small.png": "/static/media/dfann-small.e3abf7d3.png",
+    "static/media/dfann.png": "/static/media/dfann.48455185.png",
     "static/media/email.svg": "/static/media/email.29b636ee.svg",
+    "static/media/evergreen-small.png": "/static/media/evergreen-small.9ca6a762.png",
+    "static/media/evergreen.png": "/static/media/evergreen.96c4b3bd.png",
     "static/media/github.svg": "/static/media/github.d2873cdd.svg",
     "static/media/li.svg": "/static/media/li.0bc400df.svg",
     "static/media/pondu-small.png": "/static/media/pondu-small.333477a8.png",
@@ -24,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ed394daa.js",
-    "static/js/2.c400f302.chunk.js",
+    "static/js/2.0be573b9.chunk.js",
     "static/css/main.28822f44.chunk.css",
-    "static/js/main.99856378.chunk.js"
+    "static/js/main.972884f0.chunk.js"
   ]
 }
